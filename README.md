@@ -1,5 +1,3 @@
-Allow any computer user to watch movies easily streaming from torrents, without any particular knowledge.
-
 With this app we can listen music in streaming, also we can download the file and do with it everything.
 
 We believe in freedom, do not want restrictions on how we use our gadgets and be part of the planned obsolescence
@@ -7,13 +5,11 @@ We believe in freedom, do not want restrictions on how we use our gadgets and be
 Visit the project's website at <http://refreex.esy.es/>.
 Coming soon, the final url
 
-THIS README MUST BE MODIFIED WITH TIME
-
 ***
 
 ## Getting Involved
 
-Want to report a bug, request a feature, contribute or translate Refreex? Check out our in-depth guide to [Contributing to Refreex](CONTRIBUTING.md). We need all the help we can get! You can also join in with our [community](README.md#community) to keep up-to-date and meet other people working in the proyect.
+Want to report a bug, request a feature, contribute or translate Refreex? Check out our in-depth guide to Contributing to Refreex (UNDER CONSTRUCTION). We need all the help we can get! You can also join in with our [community](README.md#community) to keep up-to-date and meet other people working in the proyect.
 
 ## Getting Started
 
@@ -26,7 +22,9 @@ SOME TIPS FOR START THE PROJECT
 
 SOME TIPS FOR START THE PROJECT
 
-Full instructions & troubleshooting tips can be found in the [Contributing Guide](CONTRIBUTING.md)
+Full instructions & troubleshooting tips can be found in the Contributing Guide
+
+UNDER CONSTRUCTION
 
 <a name="community"></a>
 ## Community
