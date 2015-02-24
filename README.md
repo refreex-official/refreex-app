@@ -29,7 +29,7 @@ UNDER CONSTRUCTION
 <a name="community"></a>
 ## Community
 
-Keep track of Popcorn Time development and community activity.
+Contact Us
 
 * Follow Refreex on  [Facebook](https://www.facebook.com/refreex)
 * Join in discussions on Reddit [Refreex Forum](http://www.reddit.com/r/refreex/)
@@ -37,7 +37,7 @@ Keep track of Popcorn Time development and community activity.
 
 ## Versioning
 
-For transparency and insight into our release cycle, and for striving to maintain backward compatibility, Popcorn Time will be maintained according to the [Semantic Versioning](http://semver.org/) guidelines as much as possible.
+For transparency and insight into our release cycle, and for striving to maintain backward compatibility, Refreex will be maintained according to the [Semantic Versioning](http://semver.org/) guidelines as much as possible.
 
 Releases will be numbered with the following format:
 
