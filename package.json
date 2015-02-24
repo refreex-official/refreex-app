@@ -1,0 +1,25 @@
+{
+  "name": "refreex",
+  "version": "0.0.1",
+  "description": "refreex, the app for listen music with freedom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Merlyn007/refreex.git"
+  },
+  "keywords": [
+    "refreex",
+    "music",
+    "p2p",
+    "freedom"
+  ],
+  "author": "Merlyn007",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Merlyn007/refreex/issues"
+  },
+  "homepage": "https://github.com/Merlyn007/refreex"
+}
